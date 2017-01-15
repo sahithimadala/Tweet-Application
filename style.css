@@ -1,0 +1,99 @@
+
+    *{
+	padding: 0;
+	margin: 0;
+	}
+nav 
+{
+	
+	background-color:rgba(30,84,160,1.00);
+	height: 50px;
+	width: 573px;
+	margin: 0px auto;
+	
+	
+}
+nav ul 
+{
+	padding: 0;
+	margin: 0;
+	margin: 0px auto;
+	
+}
+nav ul li
+{
+	list-style-type: none;
+	width: 190px;
+	float: left;
+	border-right: 1px solid white;
+	text-align:center;
+	margin:0px auto;
+	
+}
+li a
+{
+	text-decoration: none;
+	color: white;
+	line-height: 50px;
+	display: block;
+	font-size: 18px;
+}
+li a:hover
+{
+	background-color:rgba(128,182,225,1.00);
+		color:rgba(0,0,0,0.96);
+		font-style: bold;
+		
+}
+p
+{
+	width: 573px;
+	margin: 0px auto;
+}
+h3
+{
+	color:rgba(176,24,27,1.00);
+	margin:0px auto;
+}
+h2
+{
+	color:rgba(176,24,27,1.00);
+	margin: 0px auto;
+}
+button
+{
+	margin:0px auto;
+	width:15em;
+	height:2em;
+}
+input[type=button],[type=submit]
+{
+	width: 20em;
+	height: 6em;
+	margin: 0px auto;
+	padding:0;
+	align: center;
+}
+div
+{
+margin:0px auto;
+width:573px;
+}
+.dsa {
+	position: absolute;
+}
+div textarea
+{
+	font-family:"Verdana";
+	font-size: 16px;
+	padding:0;
+	margin:0px auto;
+	align:center;
+}
+table tbody
+{
+	height: 25px;
+	align: center;
+	
+}
+
